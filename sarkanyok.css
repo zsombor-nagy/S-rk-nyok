@@ -19,7 +19,8 @@ a:hover {
 }
 
 body{
-background-image: url ("hatterkep.jpg");
+background-image: url /* Ez nem működik */ ("hatterkep.jpg");
+text-align: ustify;
 }
 p{
 font-family:"sans-serif";
