@@ -24,3 +24,8 @@ background-image: url ("hatterkep.jpg");
 p{
 font-family:"sans-serif";
 }
+.forrás{
+font-size: 10px;
+font-style: italic;
+float: right;
+}
